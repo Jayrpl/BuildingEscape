@@ -34,7 +34,7 @@ private:
 	float LastDoorOpenTime;
 
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(EditAnywhere)
 		float OpenAngle = -90.0f;
 	
 
